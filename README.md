@@ -63,7 +63,7 @@ Use HOG and color histogram features extrated from vehicle and non-vehicle image
 #### Video demonstration:
 <p align="center">
   	<a href="https://www.youtube.com/watch?v=gIOipE0Pr2M&ab_channel=ObinnaNdubuisi">
-  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p5.gif"/>
+  		<img src="./demonstration/P5.gif"/>
 	</a>
 </p>
 
@@ -74,7 +74,7 @@ An Extended Kalman Filter is implemented to estimate the state of a moving objec
 #### Video demonstration:
 <p align="center">
   	<a href="https://www.youtube.com/watch?v=ULZ4CG-_vH4&ab_channel=ObinnaNdubuisi">
-  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p6.gif"/>
+  		<img src="./demonstration/P6.gif"/>
 	</a>
 </p>
 
