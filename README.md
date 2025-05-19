@@ -40,7 +40,7 @@ With the help of Udacity Self-Driving Car Simulator, implement a deep neural net
 
 #### Video demonstration:
 <p align="center">
-  	<a href="https://www.youtube.com/watch?v=8Yym71D-72U">
+  	<a href="https://www.youtube.com/watch?v=r7AgQfBCMdU&ab_channel=ObinnaNdubuisi">
   		<img src="./demonstration/P3.gif"/>
 	</a>
 </p>
@@ -51,7 +51,7 @@ Use advanced computer vision algorithm such as Sobel Edge Detection, Perspective
 
 #### Video demonstration:
 <p align="center">
-  	<a href="https://www.youtube.com/watch?v=u_qY0bvhmsg">
+  	<a href="https://www.youtube.com/watch?v=gIOipE0Pr2M&ab_channel=ObinnaNdubuisi">
   		<img src="./demonstration/P4.gif"/>
 	</a>
 </p>
@@ -62,7 +62,7 @@ Use HOG and color histogram features extrated from vehicle and non-vehicle image
 
 #### Video demonstration:
 <p align="center">
-  	<a href="https://www.youtube.com/watch?v=ci_8yStnfUk">
+  	<a href="https://www.youtube.com/watch?v=gIOipE0Pr2M&ab_channel=ObinnaNdubuisi">
   		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p5.gif"/>
 	</a>
 </p>
@@ -73,7 +73,7 @@ An Extended Kalman Filter is implemented to estimate the state of a moving objec
 
 #### Video demonstration:
 <p align="center">
-  	<a href="https://youtu.be/iN-Bf5Ay5Bc">
+  	<a href="https://www.youtube.com/watch?v=ULZ4CG-_vH4&ab_channel=ObinnaNdubuisi">
   		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p6.gif"/>
 	</a>
 </p>
