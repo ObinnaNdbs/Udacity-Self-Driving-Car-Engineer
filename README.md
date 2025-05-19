@@ -63,7 +63,7 @@ Use HOG and color histogram features extrated from vehicle and non-vehicle image
 #### Video demonstration:
 <p align="center">
   	<a href="https://www.youtube.com/watch?v=gIOipE0Pr2M&ab_channel=ObinnaNdubuisi">
-  		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p5.gif"/>
+  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p5.gif"/>
 	</a>
 </p>
 
@@ -74,7 +74,7 @@ An Extended Kalman Filter is implemented to estimate the state of a moving objec
 #### Video demonstration:
 <p align="center">
   	<a href="https://www.youtube.com/watch?v=ULZ4CG-_vH4&ab_channel=ObinnaNdubuisi">
-  		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p6.gif"/>
+  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p6.gif"/>
 	</a>
 </p>
 
@@ -85,7 +85,7 @@ An Unscented Kalman Filter is implemented to estimate the state of a moving obje
 #### Video demonstration:
 <p align="center">
   	<a href="https://youtu.be/F7sMPR5R4yI">
-  		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p7.gif"/>
+  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p7.gif"/>
 	</a>
 </p>
 
@@ -96,7 +96,7 @@ An Particle Filter is implemented to estimate the location of a lost vehicle wit
 #### Video demonstration:
 <p align="center">
   	<a href="https://youtu.be/fUX9pNs2IIY">
-  		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p8.gif"/>
+  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p8.gif"/>
 	</a>
 </p>
 
@@ -107,7 +107,7 @@ A PID controller is implemented, which collects data and attempts to minimize th
 #### Video demonstration:
 <p align="center">
   	<a href="https://youtu.be/-OvcFFYefM8">
-  		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p9.gif"/>
+  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p9.gif"/>
 	</a>
 </p>
 
@@ -118,7 +118,7 @@ A Model Predictive Controller (MPC) is implemented, which differs from PID contr
 #### Video demonstration:
 <p align="center">
   	<a href="https://youtu.be/8qw0ykeOhuI">
-  		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p10.gif"/>
+  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p10.gif"/>
 	</a>
 </p>
 
@@ -130,6 +130,6 @@ In the project, a vehicle navigates safely around a virtual highway with other t
 
 <p align="center">
   	<a href="https://youtu.be/PJqq0DKkakM">
-  		<img src="https://raw.githubusercontent.com/joeyzhong90595/Self-Driving-Car-Engineer-Projects/master/demonstration/p11.gif"/>
+  		<img src="https://raw.githubusercontent.com/ObinnaNdbs/Udacity-Self-Driving-Car-Engineer/tree/main/demonstration/p11.gif"/>
 	</a>
 </p>
