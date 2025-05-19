@@ -21,7 +21,7 @@ Use basic computer vision techniques, Canny Edge Detection and Hough Transform f
 
 #### Video demonstration:
 <p align="center">
-  	<a href="https://studio.youtube.com/video/2c6CT6QxEBI/edit">
+  	<a href="https://www.youtube.com/watch?v=2c6CT6QxEBI&ab_channel=ObinnaNdubuisi">
   		<img src="./demonstration/P1.gif"/>
 	</a>
 </p>
