@@ -63,7 +63,7 @@ Use HOG and color histogram features extrated from vehicle and non-vehicle image
 #### Video demonstration:
 <p align="center">
   	<a href="https://www.youtube.com/watch?v=gIOipE0Pr2M&ab_channel=ObinnaNdubuisi">
-  		<img src="./demonstration/P5.gif"/>
+  		<img src="./demonstration/p5.gif"/>
 	</a>
 </p>
 
